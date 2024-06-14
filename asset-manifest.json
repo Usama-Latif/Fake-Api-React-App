@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fake-Api-React-App/static/css/main.f855e6bc.css",
+    "main.js": "/Fake-Api-React-App/static/js/main.2d9e66b0.js",
+    "static/js/453.ef7fb9f9.chunk.js": "/Fake-Api-React-App/static/js/453.ef7fb9f9.chunk.js",
+    "index.html": "/Fake-Api-React-App/index.html",
+    "main.f855e6bc.css.map": "/Fake-Api-React-App/static/css/main.f855e6bc.css.map",
+    "main.2d9e66b0.js.map": "/Fake-Api-React-App/static/js/main.2d9e66b0.js.map",
+    "453.ef7fb9f9.chunk.js.map": "/Fake-Api-React-App/static/js/453.ef7fb9f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2d9e66b0.js"
+  ]
+}
